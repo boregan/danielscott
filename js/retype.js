@@ -8,7 +8,7 @@ function updateText(txt)
 	container.innerHTML = txt;
 }
 
-var things = ['cool', 'fantastic', 'awesome', 'amazing', 'radical', 'nice', 'gnarly', 'class'];
+var things = ['radical', 'handsome', 'gorgeous', 'class', 'sound', 'fab', 'gnarly', 'class'];
 var t = -1;
 var thing = '';
 var message = '';
